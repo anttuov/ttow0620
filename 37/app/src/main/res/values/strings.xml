@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">37</string>
+    <string name="thumbs_n">Thumbs up notification</string>
+    <string name="warning_n">Warning notification</string>
+    <string name="send_n">Send Notification</string>
+
+</resources>
